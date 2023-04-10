@@ -4,7 +4,6 @@
     "slug": "my-project",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "plugins":["react-native-expo-metamap-sdk"],
     "splash": {
