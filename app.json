@@ -7,7 +7,6 @@
     "userInterfaceStyle": "light",
     "plugins":["react-native-expo-metamap-sdk"],
     "splash": {
-      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -19,14 +18,6 @@
     ],
     "ios": {
       "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      },
-      "googleServicesFile": "./google-services.json",
-      "package": "com.iamhosto100.myproject"
     },
     "web": {
       "favicon": "./assets/favicon.png"
